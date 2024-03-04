@@ -2,3 +2,7 @@
 
 **How to change language to English in VSC?**
 
+1. 
+2. 
+3. 
+4. 
